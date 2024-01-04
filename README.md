@@ -1,70 +1,73 @@
-# Getting Started with Create React App
+# Resumen del Curso de React.js - Raul Palacios
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Introducción
+- **Duración:** 37 lecciones
+- **Fecha de Inicio:** Hace 4 años
+- **Instructor:** [Raul Palacios Lopez](https://www.youtube.com/@RaulPalaciosLopez)
+- **Total de Vistas:** Más de 96 mil
 
-## Available Scripts
+## Descripción General
+Este curso de React.js impartido por Raul Palacios proporciona una sólida introducción al desarrollo web moderno con React. Desde los conceptos básicos hasta temas avanzados, los participantes aprenderán a construir aplicaciones interactivas y eficientes utilizando la popular biblioteca JavaScript.
 
-In the project directory, you can run:
+## Lista de Lecciones
 
-### `npm start`
+1. **Introducción a ReactJS**
+   - Vistas: 96k
+   - Duración: 3:02
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+2. **Herramientas en ReactJS**
+   - Vistas: 37k
+   - Duración: 2:44
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+3. **La Documentación Oficial de ReactJS**
+   - Vistas: 32k
+   - Duración: 7:27
 
-### `npm test`
+4. **CreateReactApp en ReactJS**
+   - Vistas: 41k
+   - Duración: 9:07
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+5. **ReactDOM en ReactJS**
+   - Vistas: 38k
+   - Duración: 10:16
 
-### `npm run build`
+6. **JSX en ReactJS**
+   - Vistas: 30k
+   - Duración: 3:50
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+7. **Repositorio del Proyecto en ReactJS**
+   - Vistas: 26k
+   - Duración: 4:37
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+8. **¿Qué es un componente? en ReactJS**
+   - Vistas: 25k
+   - Duración: 10:25
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+9. **Mi primer componente en ReactJS**
+   - Vistas: 27k
+   - Duración: 7:08
 
-### `npm run eject`
+10. **Agregando CSS a componentes en ReactJS**
+    - Vistas: 36k
+    - Duración: 10:18
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+... (y así sucesivamente hasta la lección 38)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Conclusiones y Despedida
+- **Despliegue en Firebase Hosting**
+  - Vistas: 7.1k
+  - Duración: 5:05
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- **Deploy de la Aplicación ReactJS**
+  - Vistas: 8.8k
+  - Duración: 4:26
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- **Despedida del Curso de ReactJS**
+  - Vistas: 6.1k
+  - Duración: 1:53
 
-## Learn More
+## Instrucciones y Recursos Adicionales
+- Los videos se encuentran en el [canal de YouTube de Raul Palacios](https://www.youtube.com/@RaulPalaciosLopez).
+- Se recomienda un conocimiento previo de HTML, CSS y JavaScript.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+¡Disfruta del curso y felices codificaciones con React.js!

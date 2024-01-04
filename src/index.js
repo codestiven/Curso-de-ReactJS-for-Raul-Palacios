@@ -15,7 +15,7 @@ const user = {
 };
 
 const nombre = "Stiven";	
-const element = <img src={user.avatarUrl}/>; ;
+const element = <h1>hola {nombre}</h1>; ;
 const container = document.getElementById("root");
 
 ReactDOM.render(element, container)

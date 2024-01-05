@@ -6,16 +6,7 @@
 
 import React from 'react'
 import ReactDOM from 'react-dom'
+import Card from './components/Card'
 
-const user = {
-  firstName: "Johen",
-  lastName: "Doe",
-  age: 50,
-  avatarUrl: "https://randomuser.me/api/portraits/men/45.jpg",
-};
-
-const nombre = "Stiven";	
-const element = <h1>hola {nombre}</h1>; ;
 const container = document.getElementById("root");
-
-ReactDOM.render(element, container)
+ReactDOM.render(<Card />, container);
